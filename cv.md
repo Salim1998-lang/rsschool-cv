@@ -19,24 +19,24 @@
 
 ### Code example:
 
-public class Main {
-    //Объявление глобальных данных
-    public static int el1 = 0, el2 = 0, res = 0;
-    public static String[] romans = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI"};
-    public static String[] arab = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"};
+    public class Main {
+        //Объявление глобальных данных
+        public static int el1 = 0, el2 = 0, res = 0;
+        public static String[] romans = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI"};
+        public static String[] arab = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"};
 
-    private final static TreeMap<Integer, String> map = new TreeMap<Integer, String>();
-    static {
-        map.put(100, "C");
-        map.put(90, "XC");
-        map.put(50, "L");
-        map.put(40, "XL");
-        map.put(10, "X");
-        map.put(9,  "IX");
-        map.put(5,  "V");
-        map.put(4,  "IV");
-        map.put(1,  "I");
-    }
+        private final static TreeMap<Integer, String> map = new TreeMap<Integer, String>();
+        static {
+            map.put(100, "C");
+            map.put(90, "XC");
+            map.put(50, "L");
+            map.put(40, "XL");
+            map.put(10, "X");
+            map.put(9,  "IX");
+            map.put(5,  "V");
+            map.put(4,  "IV");
+            map.put(1,  "I");
+        }
 
 
     //Функция для вывода ответа
