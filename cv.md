@@ -118,3 +118,10 @@ public class Main {
             System.out.println(" Ошибка!!! Не стоит совмещать арабские и римские числа!");
     }
 }
+
+### Profeccional experience
+
+> I participated in hackathons, where I won prizes: HackGround and Leaders of Digital.
+> I am doing internship in company Cron. I learned how to make lists, work with databases and data from the Internet
+> I passed 22 levels on the javarush and courses on Stepic and Coursera "Algorithmes and structures of datas"
+
