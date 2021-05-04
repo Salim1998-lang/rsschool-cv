@@ -125,3 +125,10 @@ public class Main {
 > I am doing internship in company Cron. I learned how to make lists, work with databases and data from the Internet
 > I passed 22 levels on the javarush and courses on Stepic and Coursera "Algorithmes and structures of datas"
 
+### Education
+
+>The Dagestan State Technical University, Software Engineering.
+
+### English
+
+B1+ level
