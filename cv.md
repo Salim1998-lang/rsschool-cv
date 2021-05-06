@@ -10,12 +10,12 @@
 > I like to write code and solving complex problems. My current dream is to get a job as a junior android developer. Now I work as a teacher 
 > at the IT-cube programming school, where I teach children Java and Kotlin. I wanna to learn Android SDK well. I hope RS-school will help me.
 
-### Technical skills
+### Technical skills:
 
-> Programming languages: Java, Kotlin.
-> Frameworks and libraries: Android SDK, Room, Retrofit.
-> Tools: IntelIJ Idea, Android Studio.
-> Other skills: sociability, power supply design (current work)
+1. Programming languages: Java, Kotlin.
+2. Frameworks and libraries: Android SDK, Room, Retrofit.
+3. Tools: IntelIJ Idea, Android Studio.
+4. Other skills: sociability, power supply design (current work)
 
 ### Code example:
 
